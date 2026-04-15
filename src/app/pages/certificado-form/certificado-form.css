@@ -98,6 +98,6 @@ label{
     vertical-align: middle;
 }
 
-.custom-input-group:has(.error-mensage) label{
+.text-danger-label{
     color: #d71d1d;
 }
